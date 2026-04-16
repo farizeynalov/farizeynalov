@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi, I'm Fariz
 
-<!--
-**farizeynalov/farizeynalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MS Data Science @ NYU CDS (incoming Fall 2026). Currently working as a Credit Risk ML Engineer, building PD classification models with XGBoost and LightGBM on financial data.
 
-Here are some ideas to get you started:
+**Currently working on:** algorithmic trading infrastructure · NLP research (temporal spam detection with DeBERTa) · quantitative ML systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Languages & Tools**
+
+Python · C/C++ · SQL · FastAPI · Django · PyTorch · TensorFlow · XGBoost · LightGBM · scikit-learn · PostgreSQL · Docker · Redis · Celery · Streamlit
+
+---
+
+**Projects**
+
+- [Algorithmic Trading Backtester](https://github.com/farizeynalov/Algorithmic-trading-backtester) — 3 quant strategies on 20 S&P 500 stocks (2015–2024); momentum Sharpe 1.30, XGBoost signal model Sharpe 1.12; Streamlit dashboard (Python)
+- [BookPoint](https://github.com/farizeynalov/BookPoint) — Multi-tenant appointment booking backend with WhatsApp conversational booking, payments, and scheduling engine; 221 tests (Python / FastAPI)
+- [Stock Wave Analysis](https://github.com/farizeynalov/Stock_Wave_Analysis) — Candlestick charting with Fibonacci levels, peak/valley detection, real-time simulation (C#)
+
+---
+
+**Education**
+
+NYU Center for Data Science — MS Data Science (2026–2028)  
+University of South Florida — BS Computer Science, GPA 3.7 (2022–2026)
+
+---
+
+**Links**
+
+[LinkedIn](https://www.linkedin.com/in/farizeynalov/) · Tampa, FL
