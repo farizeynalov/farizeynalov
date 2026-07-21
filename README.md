@@ -1,6 +1,6 @@
 ## Hi, I'm Fariz
 
-MS Data Science @ NYU CDS (incoming Fall 2026). Currently working as a Credit Risk ML Engineer, building PD classification models with XGBoost and LightGBM on financial data.
+MS Data Science @ UChicago PSD (incoming Autumn 2026). Currently working as a Credit Risk ML Engineer, building PD classification models with XGBoost and LightGBM on financial data.
 
 **Currently working on:** algorithmic trading infrastructure · NLP research (temporal spam detection with DeBERTa) · quantitative ML systems
 
