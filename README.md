@@ -22,7 +22,7 @@ Python · C/C++ · SQL · FastAPI · Django · PyTorch · TensorFlow · XGBoost 
 
 **Education**
 
-NYU Center for Data Science — MS Data Science (2026–2028)  
+University of Chicago Physical Sciences Division — MS Computer Science, AI track (2026–2028)  
 University of South Florida — BS Computer Science, GPA 3.7 (2022–2026)
 
 ---
